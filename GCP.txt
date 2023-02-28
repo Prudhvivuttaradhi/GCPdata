@@ -1,0 +1,3 @@
+https://github.com/Prudhvivuttaradhi/GCPdata
+Apache Spark is an open-source, lightning-fast computation technology build based on Hadoop and MapReduce technologies that support various computational techniques for fast and efficient processing. Spark is known for its in-memory cluster computation that is the main contributing feature for increasing the processing speed of the spark applications. Spark was developed as part of Hadoop’s subproject by Matei Zaharia in 2009 at UC Berkeley’s AMPLab. It was later open-sourced in the year 2010 under the BSD License which was then donated to the Apache Software Foundation in the year 2013. From 2014 onwards, Spark grabbed the top-level position among all the projects undertaken by Apache 
+
